@@ -54,6 +54,8 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdullarahimli&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies"/>
 </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdullarahimli)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
