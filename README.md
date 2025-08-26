@@ -1,4 +1,88 @@
 <h1 align="center">Hi 👋, I'm Abdulla Rahimli</h1>
+<h3 align="center">🚀 Full Stack Web Developer | 🎨 UI/UX Designer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdullarahimli&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/abdullarahimli?tab=followers">
+    <img src="https://img.shields.io/github/followers/abdullarahimli?label=Followers&style=social" alt="followers"/>
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+- 🔭 I’m currently working on **Full Stack Web Development & UI/UX projects**
+- 🌱 I’m always learning **Cloud (Azure), Microservices, and Advanced React Patterns**
+- 🎯 Passionate about creating **modern, scalable, and interactive web apps**
+- ⚡ Fun fact: *I can code and design pixel-perfect UI while enjoying coffee ☕*
+
+---
+
+### 🛠️ Tech Stack
+
+#### 🌐 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=csharp)
+![Bash](https://img.shields.io/badge/-Bash-333?style=flat&logo=gnubash)
+
+#### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-333?style=flat&logo=sass)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-333?style=flat&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-333?style=flat&logo=redux)
+![React Native](https://img.shields.io/badge/-React%20Native-333?style=flat&logo=react)
+
+#### ⚙️ Backend & Databases
+![.NET](https://img.shields.io/badge/-.NET-333?style=flat&logo=dotnet)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-333?style=flat&logo=microsoftsqlserver)
+![Firebase](https://img.shields.io/badge/-Firebase-333?style=flat&logo=firebase)
+
+#### ☁️ DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![Azure](https://img.shields.io/badge/-Azure-333?style=flat&logo=microsoftazure)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-333?style=flat&logo=postman)
+![Chart.js](https://img.shields.io/badge/-Chart.js-333?style=flat&logo=chartdotjs)
+
+#### 🎨 Design Tools
+![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-333?style=flat&logo=adobephotoshop)
+![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-333?style=flat&logo=adobeillustrator)
+![Adobe XD](https://img.shields.io/badge/-XD-333?style=flat&logo=adobexd)
+![After Effects](https://img.shields.io/badge/-After%20Effects-333?style=flat&logo=adobeaftereffects)
+![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-333?style=flat&logo=adobepremierepro)
+![InDesign](https://img.shields.io/badge/-InDesign-333?style=flat&logo=adobeindesign)
+![Dimension](https://img.shields.io/badge/-Dimension-333?style=flat&logo=adobedimension)
+![Sketch](https://img.shields.io/badge/-Sketch-333?style=flat&logo=sketch)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullarahimli&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullarahimli&theme=radical" alt="GitHub streak" height="180"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdullarahimli/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://www.abdullarahimli.az"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel" /></a>
+  <a href="mailto:abdulla.rahimli@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
+
+
+
+
+
+<h1 align="center">Hi 👋, I'm Abdulla Rahimli</h1>
 <h3 align="center">A well-known Full Stack Web Developer | Crafting Scalable & Interactive Web Applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullarahimli&label=Profile%20views&color=0e75b6&style=flat" alt="abdullarahimli" /> </p>
