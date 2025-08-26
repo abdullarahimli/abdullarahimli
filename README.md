@@ -65,9 +65,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullarahimli&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=abdullarahimli&theme=radical" alt="GitHub streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullarahimli&show_icons=true&theme=radical" height="180"/>
+  <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/src/demo/preview.png" height="180"/>
 </p>
+
 
 
 ---
