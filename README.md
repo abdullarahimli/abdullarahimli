@@ -44,7 +44,7 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullarahimli&show_icons=true&theme=radical" alt="stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullarahimli&show_icons=true&theme=radical" alt="stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullarahimli&layout=compact&theme=radical" alt="top langs" height="240"/>
 </p>
 
