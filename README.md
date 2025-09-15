@@ -4,9 +4,32 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently building **scalable full stack applications** using **React, .NET, Azure**  
-- 🌱 Exploring **Cloud Native Development, Microservices, and DevOps pipelines**  
-- 🎨 Skilled in **UI/UX Design**, turning complex ideas into clean interfaces  
+- 🔭 I’m currently working on **BYD Mobile App**
+
+- 🌱 I’m currently learning **cross-platform mobile development with React Native**
+
+- 👯 I’m looking to collaborate on **interesting and challenging projects**
+
+- 🤝 I’m looking for help with **learning advanced DevOps tools (Docker, Kubernetes, CI/CD)**
+
+- 👨‍💻 All of my projects are available at [https://github.com/abdullarahimli](https://github.com/abdullarahimli)
+
+- 📝 I regularly write articles on [web development, React, and full stack projects](web development, React, and full stack projects)
+
+- 💬 Ask me about **React, TypeScript, Tailwind and full stack web development**
+
+- 📫 How to reach me **abdullavr@code.edu.az**
+
+- 📄 Know about my experiences [https://www.abdullarahimli.az/](https://www.abdullarahimli.az/)
+
+- ⚡ Fun fact **I can code and brew the perfect cup of coffee at the same time.**
+  
+- 🔭 Currently building **scalable full stack applications** using **React, .NET, Azure**
+  
+- 🌱 Exploring **Cloud Native Development, Microservices, and DevOps pipelines**
+  
+- 🎨 Skilled in **UI/UX Design**, turning complex ideas into clean interfaces
+
 - 🎯 Mission: *Create impactful digital products that combine performance, design, and usability*  
 
 ---
@@ -56,25 +79,7 @@
 
 
 
-- 🔭 I’m currently working on **BYD Mobile App**
 
-- 🌱 I’m currently learning **cross-platform mobile development with React Native**
-
-- 👯 I’m looking to collaborate on **interesting and challenging projects**
-
-- 🤝 I’m looking for help with **learning advanced DevOps tools (Docker, Kubernetes, CI/CD)**
-
-- 👨‍💻 All of my projects are available at [https://github.com/abdullarahimli](https://github.com/abdullarahimli)
-
-- 📝 I regularly write articles on [web development, React, and full stack projects](web development, React, and full stack projects)
-
-- 💬 Ask me about **React, TypeScript, Tailwind and full stack web development**
-
-- 📫 How to reach me **abdullavr@code.edu.az**
-
-- 📄 Know about my experiences [https://www.abdullarahimli.az/](https://www.abdullarahimli.az/)
-
-- ⚡ Fun fact **I can code and brew the perfect cup of coffee at the same time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
