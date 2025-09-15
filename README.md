@@ -50,33 +50,11 @@
 
 ---
 
-## 🌍 Connect With Me  
 
-<p align="center">
-  <a href="https://www.abdullarahimli.az">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/abdullarahimli/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:abdulla.rahimli@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Abdulla Rahimli</h1>
-<h3 align="center">A well-known Full Stack Web Developer | Crafting Scalable & Interactive Web Applications</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullarahimli&label=Profile%20views&color=0e75b6&style=flat" alt="abdullarahimli" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullarahimli" alt="abdullarahimli" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/abdullarahimli" target="blank"><img src="https://img.shields.io/twitter/follow/abdullarahimli?logo=twitter&style=for-the-badge" alt="abdullarahimli" /></a> </p>
+
 
 - 🔭 I’m currently working on **BYD Mobile App**
 
