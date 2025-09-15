@@ -3,10 +3,6 @@
 
 ---
 
-
-
----
-
 ## 🚀 About Me  
 - 🔭 Currently building **scalable full stack applications** using **React, .NET, Azure**  
 - 🌱 Exploring **Cloud Native Development, Microservices, and DevOps pipelines**  
