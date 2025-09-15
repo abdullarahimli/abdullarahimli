@@ -49,7 +49,7 @@
 
 ### 🌐 Languages  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,bash,python" height="40" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,python,bash" height="40" />
 </p>
 
 ### 🎨 Frontend  
