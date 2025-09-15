@@ -13,7 +13,6 @@
 
 ---
 
-
 ## 🚀 About Me  
 - 🔭 I’m currently working on **BYD Mobile App**
 
@@ -55,11 +54,14 @@
 ### 🎨 Frontend  
 <p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,redux" height="40" />
+  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 </p>
 
 ### ⚙️ Backend & Databases  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dotnet,nodejs,mongodb,mysql,firebase" height="40" />
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 </p>
 
 ### ☁️ DevOps & Tools  
@@ -85,13 +87,7 @@
 
 ---
 
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullarahimli" alt="abdullarahimli" /></a> </p>
-
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -102,9 +98,6 @@
 <a href="https://dribbble.com/abdullarahimli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="abdullarahimli" height="30" width="40" /></a>
 <a href="https://www.behance.net/abdullarahimli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="abdullarahimli" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/abdullarahimli"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdullarahimli" /></a></p><br><br>
