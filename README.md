@@ -103,7 +103,7 @@
 </a>
 
 <!-- WhatsApp (rəngli) -->
-<a href="https://wa.me/994501234567" target="_blank">
+<a href="https://wa.me/994705728295" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40" />
 </a>
 
