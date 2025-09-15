@@ -54,7 +54,8 @@
 
 ### 🎨 Frontend  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,redux" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,redux,js,python,ts,cs,bash" height="40" />
+
 </p>
 
 ### ⚙️ Backend & Databases  
