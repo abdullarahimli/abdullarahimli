@@ -96,16 +96,8 @@
 <a href="https://instagram.com/abdullarahimli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullarahimli" height="30" width="40" /></a>
 <a href="https://dribbble.com/abdullarahimli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="abdullarahimli" height="30" width="40" /></a>
 <a href="https://www.behance.net/abdullarahimli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="abdullarahimli" height="30" width="40" /></a>
-
-  <!-- Telegram (rəngli) -->
-<a href="https://t.me/abdullarahimli" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="40" />
-</a>
-
-<!-- WhatsApp (rəngli) -->
-<a href="https://wa.me/994705728295" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40" />
-</a>
+<a href="https://t.me/abdullarahimli" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="40" /></a>
+<a href="https://wa.me/994705728295" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40" /></a>
 
 
 </p>
