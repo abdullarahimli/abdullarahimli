@@ -73,7 +73,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,xd,notion" height="40" />
   <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>
-  <img src="https://www.vectorlogo.zone/logos/adobe/adobe-dimension.svg" alt="Adobe Dimension" height="40"
 </p>
 
 ---
