@@ -3,12 +3,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdullarahimli&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-  <a href="https://github.com/abdullarahimli?tab=followers">
-    <img src="https://img.shields.io/github/followers/abdullarahimli?label=Followers&style=social" alt="followers"/>
-  </a>
-</p>
+
 
 ---
 
