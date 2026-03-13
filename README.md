@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Abdulla Rahimli</h1>
-<h3 align="center">💻 Full Stack Web Developer | 🎨 UI/UX Designer | ☁️ Cloud Enthusiast</h3>
+<h3 align="center">💻 Full Stack Web Developer | 🎨 UX/UI Designer | ☁️ Cloud Enthusiast</h3>
 
 ---
 
