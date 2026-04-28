@@ -58,14 +58,12 @@
 
 ### 🎨 Frontend  
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,redux" height="40" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,redux, zustand" height="40" />
   <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" alt="tanstack" width="40" height="40"/>
   </a>
   
-  <a href="https://zod.dev" target="_blank" rel="noreferrer">
-    <img src="https://zod.dev/logo.svg" alt="zod" width="40" height="40"/>
-  </a>
+  
 
   <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/bear.jpg" alt="zustand" width="40" height="40"/>
