@@ -99,29 +99,29 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
-  <a href="https://linkedin.com/in/abdulla-rahimli-3a2a4b253/" style="display:inline-block; margin-right:8px; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" style="display:block;" />
+<p align="left" style="line-height:0;">
+  <a href="https://linkedin.com/in/abdulla-rahimli-3a2a4b253/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
   </a>
 
-  <a href="https://wa.me/994705728295" style="display:inline-block; margin-right:8px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="30" style="display:block;" />
+  <a href="https://wa.me/994705728295">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="30" />
   </a>
 
-  <a href="https://t.me/abdullarahimli" style="display:inline-block; margin-right:8px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="30" style="display:block;" />
+  <a href="https://t.me/abdullarahimli">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="30" />
   </a>
 
-  <a href="https://twitter.com/abdullarahimli" style="display:inline-block; margin-right:8px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" style="display:block;" />
+  <a href="https://twitter.com/abdullarahimli">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" />
   </a>
 
-  <a href="https://www.behance.net/abdullarahimli" style="display:inline-block; margin-right:8px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" style="display:block;" />
+  <a href="https://www.behance.net/abdullarahimli">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" />
   </a>
 
-  <a href="https://instagram.com/abdullarahimli" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" style="display:block;" />
+  <a href="https://instagram.com/abdullarahimli">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" />
   </a>
 </p>
 
