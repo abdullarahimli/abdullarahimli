@@ -66,7 +66,6 @@
 ### ⚙️ Backend & Databases  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dotnet,nodejs,mongodb,mysql,firebase" height="40" />
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 </p>
 
 ### ☁️ DevOps & Tools  
