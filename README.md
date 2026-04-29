@@ -65,7 +65,7 @@
 
 ### ⚙️ Backend & Databases  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,mongodb,mysql,firebase" height="40" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,mongodb,mysql,firebase, mssql" height="40" />
 </p>
 
 ### ☁️ DevOps & Tools  
