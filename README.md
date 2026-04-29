@@ -101,7 +101,7 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/abdulla-rahimli-3a2a4b253/" style="display:inline-block; margin-right:20px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" style="vertical-align:middle;/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" style="vertical-align:middle; display:block;"/>
   </a>
 
   <a href="https://wa.me/994705728295" style="display:inline-block; margin-right:20px;">
