@@ -98,16 +98,30 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
-<table border="0" cellpadding="0" cellspacing="0">
+<table border="0">
   <tr>
-    <td style="border: none; background: transparent;">
-      <a href="https://linkedin.com/in/abdulla-rahimli-3a2a4b253/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>&nbsp;
-      <a href="https://wa.me/994705728295" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40" /></a>&nbsp;
-      <a href="https://t.me/abdullarahimli" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="40" /></a>&nbsp;
-      <a href="https://twitter.com/abdullarahimli" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>&nbsp;
-      <a href="https://www.behance.net/abdullarahimli" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance" height="30" width="40" /></a>&nbsp;
-      <a href="https://instagram.com/abdullarahimli" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>&nbsp;
-      <a href="https://fb.com/abdulla.rehimli.54" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>&nbsp;
+    <td width="40" align="center" style="border: none; background: transparent;">
+      <a href="https://linkedin.com/in/abdulla-rahimli-3a2a4b253/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+    </td>
+    <td width="40" align="center" style="border: none; background: transparent;">
+      <a href="https://wa.me/994705728295" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40" /></a>
+    </td>
+    <td width="40" align="center" style="border: none; background: transparent;">
+      <a href="https://t.me/abdullarahimli" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="40" /></a>
+    </td>
+    <td width="40" align="center" style="border: none; background: transparent;">
+      <a href="https://twitter.com/abdullarahimli" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+    </td>
+    <td width="40" align="center" style="border: none; background: transparent;">
+      <a href="https://www.behance.net/abdullarahimli" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance" height="30" width="40" /></a>
+    </td>
+    <td width="40" align="center" style="border: none; background: transparent;">
+      <a href="https://instagram.com/abdullarahimli" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+    </td>
+    <td width="40" align="center" style="border: none; background: transparent;">
+      <a href="https://fb.com/abdulla.rehimli.54" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+    </td>
+    <td width="40" align="center" style="border: none; background: transparent;">
       <a href="https://dribbble.com/abdullarahimli" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dribbble" height="30" width="40" /></a>
     </td>
   </tr>
